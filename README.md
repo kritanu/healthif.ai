@@ -4,6 +4,4 @@ A novel method for breast cancer cell segmentation using a U-net model architect
 
 ![alt text](https://github.com/kritanu82/healthif.ai/blob/master/images/u-net-architecture.png)
 
-![alt text](https://github.com/kritanu82/healthif.ai/blob/master/images/haa5X8O.png)
-
-![alt text](https://github.com/kritanu82/healthif.ai/blob/master/images/gqBikTa.png)
+![alt text](https://github.com/kritanu82/healthif.ai/blob/master/images/ccgt.png)
